@@ -1,6 +1,6 @@
 export const SITE_TITLE = "Aditya Mote";
-// export const SITE_DESCRIPTION =
-//   `Token Astro + Tailwind CSS starter featuring a sleek black-and-white terminal-inspired design, with support for RSS, sitemap, MD/MDX blog posts static content.`.trim();
+export const SITE_DESCRIPTION =
+  `Token Astro + Tailwind CSS starter featuring a sleek black-and-white terminal-inspired design, with support for RSS, sitemap, MD/MDX blog posts static content.`.trim();
 
 export const KNOWN_TECH =
   `Javascript,Python,CSS,HTML,C++,Tailwindcss,MongoDB,System Design,ReactJS,ExpressJS,NodeJS`.split(
