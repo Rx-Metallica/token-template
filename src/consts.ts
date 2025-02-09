@@ -9,7 +9,7 @@ export const KNOWN_TECH =
 export const ABOUT_ME =
   `👋 Hi, I'm Aditya Mote, a passionate Full-Stack Developer with problem-solving skills in C++ and Data Structures & Algorithms. I'm constantly refining my skills through structured learning and hands-on projects. 🚀 I love contributing to open-source projects. ✨ When I'm not coding, I'm writing technical blogs on Medium`.trim();
 export const GITHUB_USERNAME = "rx-metallica";
-export const LinkedIN = "in/aditya-mote-610367259/";
+export const LinkedIN = "//www.linkedin.com/in/aditya-mote-610367259";
 export const QUOTE = "Programmer Student";
 export const NAV_LINKS: Array<{ title: string; href?: string }> = [
   {
@@ -17,7 +17,7 @@ export const NAV_LINKS: Array<{ title: string; href?: string }> = [
   },
   {
     title: "LinkedIn",
-    href: "//www.linkedin.com/"
+    href: `${LinkedIN}`,
   },
   {
     title: "Github",
